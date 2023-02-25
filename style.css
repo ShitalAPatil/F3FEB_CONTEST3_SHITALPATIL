@@ -1,0 +1,29 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.container {
+	width: 400px;
+	margin: 50px auto;
+	padding: 20px;
+	border: 1px solid #ccc;
+}
+
+form {
+	display: flex;
+	flex-direction: column;
+}
+
+label {
+	margin-top: 10px;
+}
+#btn1 , #btn3 , #btn4{
+    background-color: black;
+    color: white;
+}
+#btn2{
+    background-color: black;
+    color: white;
+}
